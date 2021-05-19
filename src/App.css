@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  padding-top: 36px;
+}
+
+.SearchForm-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
